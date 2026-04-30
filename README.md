@@ -67,6 +67,8 @@ Communication, Consistency, Self-Learning
 ### 🌐 Portfolio Website
 
 Developed a responsive personal portfolio website to showcase projects and skills.
+
+
 🧩 Tech Stack: HTML, CSS
 
 ---
@@ -74,6 +76,9 @@ Developed a responsive personal portfolio website to showcase projects and skill
 ### 🎮 Quiz Game (Java)
 
 Built a console-based quiz application with score tracking and MCQ system.
+
+
+
 🧩 Tech Stack: Java, OOP
 
 ---
@@ -81,6 +86,9 @@ Built a console-based quiz application with score tracking and MCQ system.
 ### ✈️ WanderLust Travel Web App
 
 Developed a travel web application to explore destinations while learning MERN stack.
+
+
+
 🧩 Tech Stack: MERN Stack (Learning Phase)
 
 ---
@@ -98,14 +106,20 @@ Developed a travel web application to explore destinations while learning MERN s
 # 🎓 Education
 
 Bachelor of Technology (B.Tech) – Electronics & Communication Engineering
+
 Baderia Global Institute of Engineering and Management, Jabalpur
+
 📅 Aug 2021 – Jun 2025 | GPA: 7.80/10
 
+
 Higher Secondary (12th – Science Stream)
+
 Govt. Boys  Higher Secondary School, Jabalpur | 📅 Mar 2021 | 68%
 
 High School (10th)
-Govt. Boys  Higher Secondary School, Jabalpur | 📅 Mar 2019 | 66.8%
+
+Govt. Boys  Higher Secondary School, Jabalpur | 📅 Mar 2019 | 66%
+
 ---
 
 # 🌍 Languages
@@ -119,6 +133,10 @@ Govt. Boys  Higher Secondary School, Jabalpur | 📅 Mar 2019 | 66.8%
 # ⚡ Fun Fact
 
 I enjoy learning new technologies and building projects that improve my skills every day. 💡
+
+
+
+---
 
 ⭐ “Consistency beats talent when talent doesn’t work hard.”
 
