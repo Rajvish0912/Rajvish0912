@@ -2,8 +2,6 @@
 
 <h1 align="center">
  
-
-
 ---
 
 # 💫 About Me:
@@ -69,7 +67,6 @@ Communication, Consistency, Self-Learning
 ### 🌐 Portfolio Website
 
 Developed a responsive personal portfolio website to showcase projects and skills.
-
 🧩 Tech Stack: HTML, CSS
 
 ---
@@ -114,7 +111,8 @@ Govt. Boys  Higher Secondary School, Jabalpur | 📅 Mar 2019 | 66.8%
 # 🌍 Languages
 
 🇮🇳 Hindi (Native)
-🇬🇧 English (Intermediate)
+
+ English (Intermediate)
 
 ---
 
