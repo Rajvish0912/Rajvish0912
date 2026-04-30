@@ -1,8 +1,8 @@
 <!-- 🔥 Animated Typing Header -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Rajendra+Vishwakarma;Aspiring+Software+Developer;Java+%7C+MERN+Stack+Learner;Building+Real+Projects+Every+Day+🚀">
-</h1>
+ 
+
 
 ---
 
@@ -124,3 +124,4 @@ I enjoy learning new technologies and building projects that improve my skills e
 
 ⭐ “Consistency beats talent when talent doesn’t work hard.”
 
+</h1>
